@@ -27,7 +27,7 @@ x56,V,86,Mosaic Cyan,Graphics Mode
 x57,W,87,Mosaic White,Graphics Mode
 x58,X,88,Reveal Hidden/Cancel Display
 x59,Y,89,Continous Mosaics,Solid - like ZX81 Graphics
-x5a,Z,90,Separated Mosaics,Solid - like ZX81 Graphics
+x5a,Z,90,Separated Mosaics,Smaller blocks - used for the Sony Logo on the ViewData Terminal
 x5b,[,91,Escape (Not used?),
 x5c,\,92,Black Background,
 x5d,],93,Background Colour,

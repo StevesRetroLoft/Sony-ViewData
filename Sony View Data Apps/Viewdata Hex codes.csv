@@ -15,8 +15,8 @@ x4a,J,74,End Edit(B,
 x4b,K,75,Start Edit(B,
 x4c,L,76,Normal Height,
 x4d,M,77,Double Height,
-x4e,N,78,Shift Out,
-x4f,O,79,Shift In,
+x4e,N,78,Shift Out,Not Used
+x4f,O,79,Shift In,Not Uses
 x50,P,80,Mosaic Black,Graphics Mode
 x51,Q,81,Mosaic Red ,Graphics Mode
 x52,R,82,Mosaic Green,Graphics Mode
@@ -25,13 +25,13 @@ x54,T,84,Mosaic Blue,Graphics Mode
 x55,U,85,Mosaic Magent,Graphics Mode
 x56,V,86,Mosaic Cyan,Graphics Mode
 x57,W,87,Mosaic White,Graphics Mode
-x58,X,88,Reveal Hidden/Cancel Display,
-x59,Y,89,Continous Mosaics,
-x5a,Z,90,Separated Mosaics,
-x5b,[,91,,
-x5c,\,92,,
+x58,X,88,Reveal Hidden/Cancel Display
+x59,Y,89,Continous Mosaics,Solid - like ZX81 Graphics
+x5a,Z,90,Separated Mosaics,Solid - like ZX81 Graphics
+x5b,[,91,Escape (Not used?),
+x5c,\,92,Black Background,
 x5d,],93,Background Colour,
-x5e,^,94,,
-x5f,_,95,,
+x5e,^,94,Hold Mosaics,
+x5f,_,95,Release Mosiacs,
 ,,,Graphics from 60(dec) to 64(dec),
 ,,,then from 91(dec) to 127(dec),
